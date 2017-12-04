@@ -1,4 +1,4 @@
-# Event Connector with Modules for Jira, SNOW, Quaranine and SNS
+# Event Connector with Modules for Jira, SNOW, Quarantine and SNS
 
 
 ## Purpose
